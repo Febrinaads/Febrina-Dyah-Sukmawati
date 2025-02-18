@@ -2,6 +2,5 @@ streamlit
 python-pptx
 pillow
 requests
-BytesIO
 Image
 tempfile
