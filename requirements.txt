@@ -3,4 +3,3 @@ python-pptx
 pillow
 requests
 Image
-tempfile
